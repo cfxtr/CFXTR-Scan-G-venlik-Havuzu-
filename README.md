@@ -2,7 +2,7 @@
 
 CFXTR, FiveM ve Discord sunucu sahipleri için tamamen **%100 ÜCRETSİZ** olarak sunulan, topluluk odaklı bir oyuncu sorgulama ve istihbarat havuzudur. 
 
-Amacımız; hilecileri, dolandırıcıları ve toksik oyuncuları sunucunuza almadan önce tespit edebilmeniz için size devasa bir arama motoru sunmaktır. Şu an havuzumuzda **190.000'den fazla Discord hesabı** ve **16.000'den fazla FiveM oyuncu verisi** indekslenmiştir.
+Amacımız; hilecileri, dolandırıcıları ve toksik oyuncuları sunucunuza almadan önce tespit edebilmeniz için size devasa bir arama motoru sunmaktır. Şu an havuzumuzda **190.000'den fazla Discord hesabı** ve **199.270'den fazla FiveM oyuncu verisi** indekslenmiştir.
 
 🔗 **Hemen Sorgulama Yapın:** [scan.cfxtr.info](https://scan.cfxtr.info/)
 🔗 **Discord Sunucumuz:** [discord.gg/cfxtr]
