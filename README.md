@@ -15,7 +15,7 @@ Arka planda çalışan örümcek (spider) botlarımız, bilinen hile sunucuları
 ## 🚀 Öne Çıkan Özellikler
 
 - **Tamamen Ücretsiz:** Ne web sitemizde sorgulama yapmak ne de botumuzu kullanmak için hiçbir ücret ödemezsiniz.
-- **Devasa Arama Motoru (Scan):** 190K+ Discord kullanıcısı ve 16K+ FiveM player datası ile Türkiye'nin en büyük oyuncu veri havuzu.
+- **Devasa Arama Motoru (Scan):** 190K+ Discord kullanıcısı ve 199K+ FiveM player datası ile Türkiye'nin en büyük oyuncu veri havuzu.
 - **Çapraz Eşleşme:** Bir oyuncunun Discord kimliği ile FiveM (Steam/Lisans) kimliklerini birbirine bağlayarak asıl profiline ulaşmanızı sağlar.
 - **Gelişmiş Discord Botu:** Web sitemize ek olarak, kendi Discord sunucunuzda kullanabileceğiniz ücretsiz botumuzla ticket sisteminizi ve loglarınızı kusursuz yönetebilirsiniz.
 
