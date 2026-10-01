@@ -33,5 +33,4 @@ Arka planda çalışan örümcek (spider) botlarımız, bilinen hile sunucuları
 *Daha temiz ve güvenilir FiveM sunucuları için tamamen ücretsiz bir topluluk projesidir. - CFXTR*
 
 ---
-### 🔍 Etiketler / Keywords (SEO)
 `fivem ban list`, `fivem global ban`, `fivem hileci sorgulama`, `discord scammer check`, `discord hile havuzu`, `fivem scanner`, `cfx.re ban lookup`, `fivem anti-cheat`, `fivem bedava ticket botu`, `fivem log botu`, `fivem oyuncu sorgulama`, `fivem hex finder`, `discord id lookup`, `fivem güvenlik sistemi`, `fivem kara liste`, `fivem blacklist api`
