@@ -2,10 +2,10 @@
 
 CFXTR, FiveM ve Discord sunucu sahipleri için tamamen **%100 ÜCRETSİZ** olarak sunulan, topluluk odaklı bir oyuncu sorgulama ve istihbarat havuzudur. 
 
-Amacımız; hilecileri, dolandırıcıları ve toksik oyuncuları sunucunuza almadan önce tespit edebilmeniz için size devasa bir arama motoru sunmaktır. Şu an havuzumuzda **190.000'den fazla Discord hesabı** ve **199.270'den fazla FiveM oyuncu verisi** indekslenmiştir.
+Amacımız; hilecileri, dolandırıcıları ve toksik oyuncuları sunucunuza almadan önce tespit edebilmeniz için size devasa bir arama motoru sunmaktır. Şu an havuzumuzda **190.000'den fazla Discord hesabı** ve **199.270'den fazla FiveM oyuncu ve ban verisi** indekslenmiştir.
 
 🔗 **Hemen Sorgulama Yapın:** [scan.cfxtr.info](https://scan.cfxtr.info/)
-🔗 **Discord Sunucumuz:** [discord.gg/cfxtr]
+🔗 **Discord Sunucumuz:** discord.gg/cfxtr
 
 ## 📌 CFXTR Ne İşe Yarar?
 
@@ -15,7 +15,7 @@ Arka planda çalışan örümcek (spider) botlarımız, bilinen hile sunucuları
 ## 🚀 Öne Çıkan Özellikler
 
 - **Tamamen Ücretsiz:** Ne web sitemizde sorgulama yapmak ne de botumuzu kullanmak için hiçbir ücret ödemezsiniz.
-- **Devasa Arama Motoru (Scan):** 190K+ Discord kullanıcısı ve 199K+ FiveM player datası ile Türkiye'nin en büyük oyuncu veri havuzu.
+- **Devasa Arama Motoru (Scan):** 190K+ Discord kullanıcısı ve 199K+ FiveM player ve ban datası ile Türkiye'nin en büyük oyuncu veri havuzu.
 - **Çapraz Eşleşme:** Bir oyuncunun Discord kimliği ile FiveM (Steam/Lisans) kimliklerini birbirine bağlayarak asıl profiline ulaşmanızı sağlar.
 - **Gelişmiş Discord Botu:** Web sitemize ek olarak, kendi Discord sunucunuzda kullanabileceğiniz ücretsiz botumuzla ticket sisteminizi ve loglarınızı kusursuz yönetebilirsiniz.
 
